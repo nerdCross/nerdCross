@@ -13,5 +13,5 @@
 I am a Machine learning engineer and a Blockchain developer  from Nigeria.
 
 ### ✍️ Initial Repo : 
-- [ULt-processor](https://github.com/ult-processor)
+- [Ult-processor](https://github.com/ult-processor)
 
