@@ -59,10 +59,3 @@ I engage exclusively with those who understand that **infrastructure is a respon
 * **Role:** Lead AI Engineer
 * **Focus:** Autonomous Systems & Security Forensics
 * **Philosophy:** Radical Autonomy.
-
----
-
-### **Implementation Tips for GitHub:**
-1.  **Header Image:** Use a wide, low-exposure technical schematic or a dark, minimalist banner with the word `SOVEREIGNTY` in a monospace font.
-2.  **Pinned Repos:** Only pin repositories that demonstrate "Hardening" or "Autonomous" logic.
-3.  **Theme:** This text is designed for **GitHub Dark Mode**. It uses blockquotes and tables to create a "command center" aesthetic.
