@@ -1,108 +1,68 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="90"/>
-</p>
-
-<h1 align="center">
-  Hi, I'm Damilola 👋
-</h1>
-
-<h3 align="center">
-  Lead AI Engineer • Blockchain & DeFi Security • Algorithmic Trading Research
-</h3>
-
-<p align="center">
-  <a href="https://github.com/nerdCross">
-    <img src="https://img.shields.io/github/followers/nerdCross?label=Follow&style=social" />
-  </a>
-  <a href="https://papers.ssrn.com/abstract=5021363">
-    <img src="https://img.shields.io/badge/Research-SSRN-blue" />
-  </a>
-</p>
+# NERDCROSS
+## **Infrastructure Governor | Sovereignty Architect**
+### `STATUS: OPERATIONAL`
 
 ---
 
-## 👨‍💻 About Me
+### **// OPERATIONAL DOMAIN**
+> **THE INTERSECTION OF AI ENGINEERING, DEVOPS HARDENING, AND CYBER SOVEREIGNTY.**
 
-I’m a **Lead AI Engineer and Blockchain Specialist** with **6+ years of software engineering experience** and **4+ years in AI/ML and quantitative systems**.
+I do not manage systems. **I govern infrastructure.**
 
-I design and deploy **AI-driven financial systems**, **secure blockchain architectures**, and **algorithmic trading engines**, with a strong focus on **research-backed, production-ready solutions**.
-
-- 🔐 Secured **$6B+** in tokenized real-estate assets  
-- 📈 Built adaptive **algorithmic trading systems**
-- 🧠 Researcher in **AI optimization & computational finance**
-- 🌍 Based in Nigeria • Open to global & remote collaboration
+The metric that matters is not uptime or feature velocity. The metric is **unilateral control**. My focus is the systematic elimination of external dependency. If a vendor can revoke your access via an email or a license change, you do not have sovereignty. **You have a lease.**
 
 ---
 
-## 🧠 Core Expertise
+### **// METHODOLOGY**
 
-**Artificial Intelligence & ML**
-- Deep Learning, Reinforcement Learning
-- Time-series & Financial ML
-- Nature-Inspired Optimization (ACO)
-- Model optimization & interpretability
+My work bridges three critical disciplines where sovereignty is either secured or surrendered:
 
-**Blockchain & DeFi**
-- Smart contract development & auditing
-- DeFi security & protocol design
-- Tokenized asset security
-- AI-enhanced on-chain analytics
-
-**Quant & Trading Systems**
-- Algorithmic trading & backtesting
-- Market microstructure
-- Risk management & position sizing
-- MQL5 Expert Advisors (MT5)
+* **AI Engineering:** Implementing automation that reduces human touchpoints without introducing opaque, uncontrollable decision loops.
+* **DevOps Hardening:** Constructing deployment pipelines that prioritize integrity and auditability over the fragility of "convenience."
+* **Cyber Sovereignty:** Designing architectures that ensure key material, traversal pathways, and enforcement mechanisms remain under absolute owner control.
 
 ---
 
-## 🛠 Tech Stack
+### **// STANCE ON TRANSPARENCY**
+**Principle: Open Intelligence / Governed Implementation.**
 
-**Languages**
-- Python, Solidity (expert)
-- Rust, Go, C++ (advanced)
-- JavaScript, MQL5
-
-**Frameworks & Tools**
-- PyTorch, TensorFlow, Scikit-learn
-- Web3, Hardhat, Foundry
-- Docker, Linux, Git, CI/CD
+* **The Architecture is Documented.**
+* **The Logic is Exposed.** Security through obscurity is an admission of weakness. Documentation is non-negotiable, but understanding the blueprint does not grant access to the controls. **Execution is governed.** Access is intentional—never automatic.
 
 ---
 
-## 📚 Research & Publications
+### **// TECHNICAL ARSENAL**
 
-- **Advanced Ant Colony Optimization for Portfolio Management**  
-  *SSRN, 2025*  
-  Nature-inspired optimization applied to adaptive trading and portfolio systems.  
-  🔗 https://papers.ssrn.com/abstract=5021363
-
-- **Academic & Teaching Profile**  
-  Baze University – Applied AI & Blockchain  
-  🔗 https://ideas.bazeuniversity.edu.ng/tutor/mr-damilola-olaseinde
+| Layer | Governance Protocol |
+| :--- | :--- |
+| **Logic & Intelligence** | Python, Rust, Solidity, C++, LLM Orchestration |
+| **Infrastructure Control** | Go, MQL5, Hardened CI/CD, Immutable Infrastructure |
+| **Sovereignty Tools** | Cellular Threat Detection, Android Forensics, Kernel Hardening |
 
 ---
 
-## 🧪 Open-Source Work
+### **// ENGAGEMENT CRITERIA**
 
-This GitHub hosts:
-- Smart contract security & audit tooling
-- AI/ML research implementations
-- Blockchain & Rust-based systems
-- Quantitative trading experiments
+I have no interest in:
+* **Vendor Apologists.**
+* **Convenience Seekers.**
+* **The Illusion of Permission:** Those who confuse granted permission with owned access.
 
-Most repositories focus on **correctness, security, and real-world usability**.
-
----
-
-## 📫 Connect
-
-- 📧 Email: **Processordamilola@gmail.com**
-- 📄 Research: https://papers.ssrn.com/abstract=5021363
-- 🧑‍💻 GitHub: https://github.com/nerdCross
+I engage exclusively with those who understand that **infrastructure is a responsibility**, not a service-level agreement.
 
 ---
 
-<p align="center">
-  <i>Building secure, intelligent systems at the intersection of AI, finance, and decentralization.</i>
-</p>
+### **// CONNECT**
+
+`[ TERMINAL_ACCESS_GRANTED ]`
+
+* **Role:** Lead AI Engineer
+* **Focus:** Autonomous Systems & Security Forensics
+* **Philosophy:** Radical Autonomy.
+
+---
+
+### **Implementation Tips for GitHub:**
+1.  **Header Image:** Use a wide, low-exposure technical schematic or a dark, minimalist banner with the word `SOVEREIGNTY` in a monospace font.
+2.  **Pinned Repos:** Only pin repositories that demonstrate "Hardening" or "Autonomous" logic.
+3.  **Theme:** This text is designed for **GitHub Dark Mode**. It uses blockquotes and tables to create a "command center" aesthetic.
