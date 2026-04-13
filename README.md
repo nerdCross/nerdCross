@@ -40,16 +40,6 @@ My work bridges three critical disciplines where sovereignty is either secured o
 | **Infrastructure Control** | Go, MQL5, Hardened CI/CD, Immutable Infrastructure |
 | **Sovereignty Tools** | Cellular Threat Detection, Android Forensics, Kernel Hardening |
 
----
-
-### **// ENGAGEMENT CRITERIA**
-
-I have no interest in:
-1. **Vendor Apologists.**
-2. **Convenience Seekers.**
-3. **The Illusion of Permission:** Those who confuse granted permission with owned access.
-
-I engage exclusively with those who understand that **infrastructure is a responsibility**, not a service-level agreement.
 
 ---
 
